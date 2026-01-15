@@ -1,234 +1,94 @@
-tml<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Deepashree's GitHub Profile</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Deepashree%20Srinivasa%20Rao%20Rannore&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+</div>
 
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background: linear-gradient(135deg, #0a0e27 0%, #1a0b2e 25%, #16213e 50%, #0f0f23 75%, #000000 100%);
-            color: #e0e0ff;
-            padding: 40px 20px;
-            min-height: 100vh;
-            position: relative;
-            overflow-x: hidden;
-        }
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Data+Science+%7C+Machine+Learning+%7C+Automation;Northeastern+University+%7C+Khoury+College+of+computer+science;Actively+Seeking+Internships+Summer%2FFall+2026" alt="Typing SVG" />
+</div>
 
-        .stars {
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            pointer-events: none;
-            z-index: 1;
-        }
+<br>
 
-        .star {
-            position: absolute;
-            width: 2px;
-            height: 2px;
-            background: white;
-            border-radius: 50%;
-            animation: twinkle 3s infinite;
-        }
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+</p>
 
-        @keyframes twinkle {
-            0%, 100% { opacity: 0.3; }
-            50% { opacity: 1; }
-        }
+## 🌌 About Me
 
-        .nebula {
-            position: fixed;
-            width: 300px;
-            height: 300px;
-            border-radius: 50%;
-            filter: blur(60px);
-            opacity: 0.3;
-            pointer-events: none;
-            z-index: 0;
-        }
+I'm a Data Science graduate student at Northeastern University's Khoury College of Computer Sciences, where I combine my passion for machine learning with real-world automation experience. Before starting my master's program, I spent over two years as an Automation Developer at Cognizant, where I built end-to-end solutions that saved work hours using ServiceNow, Ansible, and AI-powered predictive intelligence.
 
-        .nebula1 {
-            top: 10%;
-            right: 10%;
-            background: radial-gradient(circle, rgba(138, 43, 226, 0.4), transparent);
-        }
+My journey in tech started with a strong foundation in Information Science Engineering, where I graduated as department topper and led award-winning research on COVID-19 detection using machine learning. Now at Northeastern, I'm deepening my expertise in deep learning, NLP, and generative AI while serving as a Teaching Assistant for Natural Language Processing and Senator of Technology for Graduate Student Government.
 
-        .nebula2 {
-            bottom: 20%;
-            left: 5%;
-            background: radial-gradient(circle, rgba(75, 0, 130, 0.4), transparent);
-        }
+What drives me is the intersection of automation and intelligence. Whether I'm engineering EEG-based emotion detection systems for non-verbal patients, optimizing algorithms to improve accuracy by 38%, or mentoring 45+ developers through peer learning initiatives, I focus on building solutions that make a tangible impact. I work primarily with Python, PyTorch, and various ML frameworks, but I'm equally comfortable debugging PowerShell scripts or configuring cloud infrastructure.
 
-        .nebula3 {
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-            background: radial-gradient(circle, rgba(0, 100, 200, 0.3), transparent);
-            width: 400px;
-            height: 400px;
-        }
+I'm actively seeking Data Science, Machine Learning, or Automation internships for Summer and Fall 2026 where I can apply my unique blend of software engineering discipline and data science innovation.
 
-        .container {
-            max-width: 900px;
-            margin: 0 auto;
-            background: rgba(15, 15, 35, 0.7);
-            border: 2px solid rgba(138, 43, 226, 0.3);
-            border-radius: 20px;
-            padding: 50px;
-            backdrop-filter: blur(10px);
-            box-shadow: 0 0 40px rgba(138, 43, 226, 0.2), inset 0 0 60px rgba(0, 0, 0, 0.5);
-            position: relative;
-            z-index: 2;
-        }
+<br>
 
-        h1 {
-            font-size: 2.5em;
-            margin-bottom: 30px;
-            background: linear-gradient(90deg, #00d4ff, #a78bfa, #ff00ff);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
-            text-shadow: 0 0 30px rgba(138, 43, 226, 0.5);
-        }
+## 💫 Skills & Expertise
 
-        .intro {
-            line-height: 1.8;
-            margin-bottom: 30px;
-            font-size: 1.1em;
-            color: #c8d0ff;
-        }
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/Languages-blueviolet?style=for-the-badge" />
+    </td>
+    <td>
+      Python, R, PowerShell, JavaScript, SQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/Tools%20%26%20Platforms-9D4EDD?style=for-the-badge" />
+    </td>
+    <td>
+      ServiceNow Integration Hub, Ansible Automation Platform, Jupyter Notebook, R Studio, Workday HCM
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/Skills-7B2CBF?style=for-the-badge" />
+    </td>
+    <td>
+      Natural Language Processing, Machine Learning, Data Mining, Data Analysis, Devops Automation, Generative AI, R programming, Cloud Technologies (Azure)
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/Web%20Development-5A189A?style=for-the-badge" />
+    </td>
+    <td>
+      HTML, CSS, PHP, MySQL, Powershell scripting, Javascript
+    </td>
+  </tr>
+</table>
 
-        .seeking {
-            margin-top: 20px;
-            font-weight: 600;
-            color: #00d4ff;
-            font-size: 1.05em;
-        }
+<br>
 
-        h2 {
-            font-size: 1.8em;
-            margin: 40px 0 20px 0;
-            color: #a78bfa;
-            text-shadow: 0 0 20px rgba(167, 139, 250, 0.5);
-        }
+## 🛠️ Tech Stack
 
-        .about-content {
-            line-height: 2;
-            font-size: 1.05em;
-            color: #d0d8ff;
-        }
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50" alt="pytorch logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" height="50" alt="powershell logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="50" alt="ansible logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="pandas logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="50" alt="r logo" />
+  <img width="15" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/ServiceNow_logo.svg" height="50" alt="servicenow logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo" />
+</div>
 
-        .skills-line {
-            margin: 8px 0;
-        }
+<br><br>
 
-        .tech-icons {
-            display: flex;
-            gap: 15px;
-            flex-wrap: wrap;
-            margin-top: 30px;
-        }
-
-        .tech-icons img {
-            height: 40px;
-            filter: drop-shadow(0 0 10px rgba(138, 43, 226, 0.6));
-            transition: transform 0.3s ease, filter 0.3s ease;
-        }
-
-        .tech-icons img:hover {
-            transform: translateY(-5px) scale(1.1);
-            filter: drop-shadow(0 0 20px rgba(138, 43, 226, 1));
-        }
-
-        .data-particle {
-            position: fixed;
-            width: 4px;
-            height: 4px;
-            background: #00d4ff;
-            border-radius: 50%;
-            pointer-events: none;
-            animation: float 15s infinite;
-            z-index: 1;
-        }
-
-        @keyframes float {
-            0%, 100% { transform: translateY(0) translateX(0); }
-            25% { transform: translateY(-30px) translateX(20px); }
-            50% { transform: translateY(-60px) translateX(-10px); }
-            75% { transform: translateY(-30px) translateX(30px); }
-        }
-    </style>
-</head>
-<body>
-    <div class="stars" id="starsContainer"></div>
-    <div class="nebula nebula1"></div>
-    <div class="nebula nebula2"></div>
-    <div class="nebula nebula3"></div>
-
-    <div class="container">
-        <h1>Deepashree Srinivasa Rao Rannore</h1>
-        
-        <div class="intro">
-            I'm a passionate and driven Data Science student currently pursuing my Master's degree at Northeastern University's Khoury College of Computer Sciences with a strong passion for Data Analysis, Automation, and Generative AI. With a background in Infrastructure Automation and a degree in Information Science Engineering. I bring a unique combination of systems knowledge and analytical skills. Currently, I'm expanding my expertise in statistical modeling, NLP, and AI applications.
-        </div>
-        
-        <div class="seeking">
-            I'm actively seeking Data Science, Machine Learning, or Automation internships for Spring, Summer, and Fall 2025.
-        </div>
-
-        <h2>About me</h2>
-        
-        <div class="about-content">
-            <div class="skills-line">Skills I have acquired Throughout my academic and professional journey, includes:</div>
-            <div class="skills-line">Languages: Python, R, PowerShell, JavaScript, SQL</div>
-            <div class="skills-line">Tools & Platforms: ServiceNow Integration Hub, Ansible Automation Platform, Jupyter Notebook, R Studio</div>
-            <div class="skills-line">Skills: Machine Learning, Data Analysis, Automation, Cloud Technologies (Azure)</div>
-            <div class="skills-line">Web Development: HTML, CSS, PHP, MySQL</div>
-        </div>
-
-        <h2>I code with</h2>
-        
-        <div class="tech-icons">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript logo" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="pytorch logo" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" alt="powershell logo" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="ansible logo" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas logo" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql logo" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="r logo" />
-        </div>
-    </div>
-
-    <script>
-        const starsContainer = document.getElementById('starsContainer');
-        for (let i = 0; i < 200; i++) {
-            const star = document.createElement('div');
-            star.className = 'star';
-            star.style.left = Math.random() * 100 + '%';
-            star.style.top = Math.random() * 100 + '%';
-            star.style.animationDelay = Math.random() * 3 + 's';
-            star.style.opacity = Math.random() * 0.7 + 0.3;
-            starsContainer.appendChild(star);
-        }
-
-        for (let i = 0; i < 30; i++) {
-            const particle = document.createElement('div');
-            particle.className = 'data-particle';
-            particle.style.left = Math.random() * 100 + '%';
-            particle.style.top = Math.random() * 100 + '%';
-            particle.style.animationDelay = Math.random() * 15 + 's';
-            particle.style.animationDuration = (Math.random() * 10 + 10) + 's';
-            document.body.appendChild(particle);
-        }
-    </script>
-</body>
-</html>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+</div>
